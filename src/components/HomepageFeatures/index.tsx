@@ -1,6 +1,7 @@
 import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
+import Link from '@docusaurus/Link';
 
 type FeatureItem = {
   title: string;
@@ -23,7 +24,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/community-svgrepo-com.svg').default,
     description: (
       <>
-        Заходи в наше сообщество в Telegram, чтобы задать вопрос или пообщаться.
+        Заходи в наше <Link to='https://t.me/wisecodegroup'>сообщество в Telegram</Link>, чтобы задать вопрос или пообщаться.
       </>
     ),
   },
@@ -32,7 +33,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/add-card-svgrepo-com.svg').default,
     description: (
       <>
-        Есть что добавить или нашел неточность? Создавай PullRequest на GitHub.
+        Есть что добавить или нашел неточность? Создавай <Link to='https://github.com/scientistnik/wisecode'>PullRequest на GitHub</Link>.
       </>
     ),
   },
