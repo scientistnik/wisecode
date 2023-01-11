@@ -1,0 +1,9 @@
+{
+  "label": "Основы компьютерных наук",
+  "position": 2,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "description": "Основы"
+  }
+}
