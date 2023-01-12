@@ -1,9 +1,8 @@
 {
-  "label": "Основы компьютерных наук",
-  "position": 2,
-  "className": "red",
+  "label": "Наука о компьютерах",
+  "position": 1,
   "link": {
-    "type": "generated-index",
-    "description": "Основы"
+    "type": "doc",
+    "id": "intro"
   }
 }
