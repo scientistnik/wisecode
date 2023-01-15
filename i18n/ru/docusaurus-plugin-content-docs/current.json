@@ -14,5 +14,29 @@
   "sidebar.tutorialSidebar.category.Tutorial - Extras": {
     "message": "Tutorial - Extras",
     "description": "The label for category Tutorial - Extras in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Курсы": {
+    "message": "Курсы",
+    "description": "The label for category Курсы in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Курсы.link.generated-index.description": {
+    "message": "Курсы расчитаны на получения определенной практической пользы. Каждый курс может включать в себя несколько тем",
+    "description": "The generated-index page description for category Курсы in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.⚗️ Наука о компьютерах": {
+    "message": "⚗️ Наука о компьютерах",
+    "description": "The label for category ⚗️ Наука о компьютерах in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.JavaScript": {
+    "message": "JavaScript",
+    "description": "The label for category JavaScript in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.JavaScript.link.generated-index.description": {
+    "message": "Курсы по JavaScript",
+    "description": "The generated-index page description for category JavaScript in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.JS от Sorax": {
+    "message": "JS от Sorax",
+    "description": "The label for category JS от Sorax in sidebar tutorialSidebar"
   }
 }

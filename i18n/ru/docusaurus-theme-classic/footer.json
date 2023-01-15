@@ -33,10 +33,18 @@
   },
   "link.item.label.GitHub": {
     "message": "GitHub",
-    "description": "The label of footer link with label=GitHub linking to https://github.com/facebook/docusaurus"
+    "description": "The label of footer link with label=GitHub linking to https://github.com/scientistnik/wisecode"
   },
   "copyright": {
     "message": "Copyright © 2023 wisecode.ru",
     "description": "The footer copyright"
+  },
+  "link.item.label.Обучение": {
+    "message": "Обучение",
+    "description": "The label of footer link with label=Обучение linking to /docs/intro"
+  },
+  "link.item.label.Telegram": {
+    "message": "Telegram",
+    "description": "The label of footer link with label=Telegram linking to https://t.me/wisecodegroup"
   }
 }
