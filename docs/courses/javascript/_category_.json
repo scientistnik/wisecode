@@ -1,8 +1,8 @@
 {
-  "label": "JavaScript",
+  "label": "Основы JavaScript",
   "position": 1,
   "link": {
-    "type": "generated-index",
-    "description": "Курсы по JavaScript"
+    "type": "doc",
+    "id": "intro"
   }
 }

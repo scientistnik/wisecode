@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwisecode_ru=self.webpackChunkwisecode_ru||[]).push([[1165],{6874:e=>{e.exports=JSON.parse('{"name":"docusaurus-friends-plugin","id":"default"}')}}]);

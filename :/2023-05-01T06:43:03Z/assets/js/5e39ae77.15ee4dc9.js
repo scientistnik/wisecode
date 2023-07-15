@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwisecode_ru=self.webpackChunkwisecode_ru||[]).push([[8704],{62:(e,n,r)=>{r.r(n),r.d(n,{default:()=>u});var t=r(7294);function u(e){let{friends:n,content:r}=e;return t.createElement("div",null,"Your friends are ",n.join(",")," : ",JSON.stringify(r))}}}]);

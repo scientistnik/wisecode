@@ -73,7 +73,7 @@ const config = {
             type: "doc",
             docId: "intro",
             position: "left",
-            label: "Tutorial",
+            label: "Курсы",
           },
           { to: "/blog", label: "Blog", position: "left" },
           {
@@ -134,6 +134,10 @@ const config = {
         crossorigin: 'anonymous',
       },
     ],
+
+  plugins: [
+    "./test-plugin"
+  ]
 };
 
 module.exports = config;
